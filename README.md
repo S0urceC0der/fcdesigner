@@ -1,5 +1,7 @@
 ## Fcdesigner在线字体配置
 
+网址: https://s0urcec0der.github.io/fcdesigner/
+
 原始网址: http://wenq.org/cloud/fcdesigner_local.html
 
 `svn checkout https://svn.code.sf.net/p/wqy/svn/trunk/fcdesigner`
@@ -7,6 +9,8 @@
 修改自文泉驿官方仓库代码，修复了现有网站js文件失效导致无法生成配置文件的bug。
 
 ## Fcdesigner Online Font Configure Site
+
+Site: https://s0urcec0der.github.io/fcdesigner/
 
 Origin site: http://wenq.org/cloud/fcdesigner_local.html
 
